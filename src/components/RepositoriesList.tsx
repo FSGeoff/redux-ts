@@ -1,3 +1,5 @@
+/*Geoffrey Nix*/
+
 import React, { useState } from 'react';
 import { useTypedSelector } from '../hooks/useTypedSelector';
 import { useActions } from '../hooks/useActions';
